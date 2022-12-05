@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(30, 30, 30);
+    height: 100vh;
+    overflow: hidden;
+    margin: 0px;
+}
+.tile {
+    width: 5%;
+    height: 5vw;
+    background-color: blueviolet;
+}
