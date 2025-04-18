@@ -1,0 +1,10 @@
+[
+  {
+    "categoryName": "Animals",
+    "categoryDisplayName": "Test",
+    "coverImage": "/images/Animals/test.png",
+    "images": [
+      "/images/Animals/test.png"
+    ]
+  }
+]
