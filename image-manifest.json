@@ -2,53 +2,53 @@
   {
     "categoryName": "purple puppy girl rin",
     "categoryDisplayName": "Purple Puppy Girl Rin",
-    "coverImage": "images/purple puppy girl rin/test.png",
+    "coverImage": "/images/purple puppy girl rin/test.png",
     "images": [
-      "images/purple puppy girl rin/test.png",
-      "images/purple puppy girl rin/VRChat_2024-04-20_21-56-10.817_1440x2560.png",
-      "images/purple puppy girl rin/VRChat_2024-04-20_21-56-19.675_1440x2560.png"
+      "/images/purple puppy girl rin/test.png",
+      "/images/purple puppy girl rin/VRChat_2024-04-20_21-56-10.817_1440x2560.png",
+      "/images/purple puppy girl rin/VRChat_2024-04-20_21-56-19.675_1440x2560.png"
     ]
   },
   {
     "categoryName": "red muru",
     "categoryDisplayName": "Red Muru",
-    "coverImage": "images/red muru/a.png",
+    "coverImage": "/images/red muru/a.png",
     "images": [
-      "images/red muru/a.png",
-      "images/red muru/VRChat_2024-09-07_22-03-14.644_1440x2560.png",
-      "images/red muru/VRChat_2024-09-07_22-03-40.519_1440x2560.png",
-      "images/red muru/VRChat_2024-09-07_22-05-05.814_1440x2560.png"
+      "/images/red muru/a.png",
+      "/images/red muru/VRChat_2024-09-07_22-03-14.644_1440x2560.png",
+      "/images/red muru/VRChat_2024-09-07_22-03-40.519_1440x2560.png",
+      "/images/red muru/VRChat_2024-09-07_22-05-05.814_1440x2560.png"
     ]
   },
   {
     "categoryName": "tiger girl flowy hair lesi",
     "categoryDisplayName": "Tiger Girl Flowy Hair Lesi",
-    "coverImage": "images/tiger girl flowy hair lesi/a.jpg",
+    "coverImage": "/images/tiger girl flowy hair lesi/a.jpg",
     "images": [
-      "images/tiger girl flowy hair lesi/a.jpg",
-      "images/tiger girl flowy hair lesi/GmF0BuPbsAAO8jb.jpg"
+      "/images/tiger girl flowy hair lesi/a.jpg",
+      "/images/tiger girl flowy hair lesi/GmF0BuPbsAAO8jb.jpg"
     ]
   },
   {
     "categoryName": "tiger girl lesi",
     "categoryDisplayName": "Tiger Girl Lesi",
-    "coverImage": "images/tiger girl lesi/a.png",
+    "coverImage": "/images/tiger girl lesi/a.png",
     "images": [
-      "images/tiger girl lesi/a.png",
-      "images/tiger girl lesi/VRChat_2025-02-28_23-51-42.173_1440x2560.png",
-      "images/tiger girl lesi/VRChat_2025-02-28_23-54-22.240_1440x2560.png",
-      "images/tiger girl lesi/VRChat_2025-02-28_23-59-08.107_1440x2560.png"
+      "/images/tiger girl lesi/a.png",
+      "/images/tiger girl lesi/VRChat_2025-02-28_23-51-42.173_1440x2560.png",
+      "/images/tiger girl lesi/VRChat_2025-02-28_23-54-22.240_1440x2560.png",
+      "/images/tiger girl lesi/VRChat_2025-02-28_23-59-08.107_1440x2560.png"
     ]
   },
   {
     "categoryName": "white leopard muru",
     "categoryDisplayName": "White Leopard Muru",
-    "coverImage": "images/white leopard muru/a.png",
+    "coverImage": "/images/white leopard muru/a.png",
     "images": [
-      "images/white leopard muru/a.png",
-      "images/white leopard muru/VRChat_2024-07-13_23-38-27.759_1440x2560.png",
-      "images/white leopard muru/VRChat_2024-07-13_23-41-37.972_1440x2560.png",
-      "images/white leopard muru/VRChat_2024-07-13_23-41-56.796_2560x1440.png"
+      "/images/white leopard muru/a.png",
+      "/images/white leopard muru/VRChat_2024-07-13_23-38-27.759_1440x2560.png",
+      "/images/white leopard muru/VRChat_2024-07-13_23-41-37.972_1440x2560.png",
+      "/images/white leopard muru/VRChat_2024-07-13_23-41-56.796_2560x1440.png"
     ]
   }
 ]

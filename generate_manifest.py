@@ -53,7 +53,7 @@ try:
             # Create web-accessible paths (or relative paths if WEB_BASE_PATH is empty)
             if WEB_BASE_PATH:
                  # Use forward slashes for web paths, even on Windows
-                 category_images_paths = [f"{WEB_BASE_PATH}/{category_name}/{file}".replace("\\", "/") for file in image_files]
+                 category_images_paths = [f"/{WEB_BASE_PATH}/{category_name}/{file}".replace("\\", "/") for file in image_files]
             else:
                  # Store relative paths from the category folder if no web path needed
                  category_images_paths = [os.path.join(category_name, file) for file in image_files]
